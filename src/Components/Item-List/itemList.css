@@ -1,0 +1,18 @@
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+/* viewport <= 630px */
+
+@media screen and (max-width: 630px) {
+    .row div {
+        padding: 1.5%;
+    }
+}

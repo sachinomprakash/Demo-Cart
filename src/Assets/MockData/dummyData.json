@@ -1,0 +1,58 @@
+{
+    "shoppingItems": [
+        {
+            "id": 1,
+            "name": "Potato",
+            "price": 19.99,
+            "currency": "INR",
+            "image": "Images/item-image.jpg",
+            "category": "vegetable",
+            "value": 0
+        },
+        {
+            "id": 2,
+            "name": "Tomato",
+            "price": 9.99,
+            "currency": "INR",
+            "category": "vegetable",
+            "image": "Images/item-image.jpg",
+            "value": 0
+        },
+        {
+            "id": 3,
+            "name": "Brinjal",
+            "price": 9.99,
+            "currency": "INR",
+            "category": "vegetable",
+            "image": "Images/item-image.jpg",
+            "value": 0
+        },
+        {
+            "id": 4,
+            "name": "Orange",
+            "price": 29.99,
+            "currency": "INR",
+            "category": "fruit",
+            "image": "Images/item-image.jpg",
+            "value": 0
+        },
+        {
+            "id": 5,
+            "name": "Apple",
+            "price": 59.99,
+            "currency": "INR",
+            "category": "fruit",
+            "image": "Images/item-image.jpg",
+            "value": 0
+        },
+        {
+            "id": 6,
+            "name": "Bread",
+            "price": 10.99,
+            "category": "bread",
+            "currency": "INR",
+            "image": "Images/item-image.jpg",
+            "value": 0
+        }
+    ]
+}

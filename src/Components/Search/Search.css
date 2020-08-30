@@ -1,0 +1,26 @@
+.searchbar {
+    float: right;
+    color: #000;
+    padding: 6px 10px;
+    width: 120px;
+    border: none;
+    margin-right: 8px;
+    font-size: 1em;
+    font-weight: bold;
+    border-bottom: #000 solid 2px;
+    transition: 0.3s;
+    background-color: transparent;
+    margin-top: 20px;
+}
+
+.searchbar::placeholder {
+    color: #000;
+    transition: 0.2s;
+}
+
+.searchbar:focus {
+    width: 400px;
+    transition: 0.3s;
+    border-bottom: #000 solid 2px;
+    outline: none;
+}
